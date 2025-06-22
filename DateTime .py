@@ -1,4 +1,4 @@
-# DateTime(9)
+# DateTime
 print("Praveen Kumar G R, USN:1AY24AI084, SEC:O")
 from datetime import datetime, timedelta
 def current_day_of_week():
