@@ -1,4 +1,4 @@
-#Atrribute(10)
+#Atrribute
 print("Praveen Kumar G R, USN:1AY24AI084, SEC:O")
 from __future__ import print_function, division
 class Time:
