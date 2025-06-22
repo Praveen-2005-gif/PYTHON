@@ -1,4 +1,4 @@
-# Average(8)
+# Average
 print("Praveen Kumar G R, USN:1AY24AI084, SEC:O")
 
 class Time:
